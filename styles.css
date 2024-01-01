@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    color: white;
+    background-color: #1F2937;
+    display: flex;
+}
+
+.logo {
+    margin-left: 120px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.links {
+    margin-left: auto;
+    display: flex;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-right: 120px;
+    margin-left: auto;
+    gap: 12px;
+}
+
+a {
+    color: rgba(255, 255, 255, 0.582);
+    text-decoration-line: none;
+}
