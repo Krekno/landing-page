@@ -26,6 +26,19 @@ body {
 }
 
 a {
-    color: rgba(255, 255, 255, 0.582);
     text-decoration-line: none;
+}
+
+.white-text {
+    color: white;
+}
+
+.faded-text {
+    color: #A1A1AA;
+}
+
+.first {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
 }
