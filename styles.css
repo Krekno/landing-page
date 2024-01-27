@@ -13,12 +13,14 @@ body {
     margin-left: 120px;
     margin-top: 12px;
     margin-bottom: 12px;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .links {
     margin-left: auto;
     display: flex;
-    margin-top: 12px;
+    margin-top: 20px;
     margin-bottom: 12px;
     margin-right: 120px;
     margin-left: auto;
