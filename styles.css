@@ -143,3 +143,34 @@ a {
     font-size: 24px;
     font-weight: bold;
 }
+
+#white-border {
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: 128px;
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.fourth {
+    background-color: rgb(70, 70, 255);
+    margin: 150px;
+    display: flex;
+    height: 128px;
+    border-radius: 12px;
+}
+
+.fourth-first-text {
+    font-size: 24px;
+}
+
+.fourth-second-text {
+    font-size: 16px;
+}
+
+.fourth-content {
+    margin-left: 120px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
