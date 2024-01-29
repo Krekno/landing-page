@@ -174,3 +174,11 @@ a {
     margin-top: auto;
     margin-bottom: auto;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    color: rgb(198, 198, 198);
+}
