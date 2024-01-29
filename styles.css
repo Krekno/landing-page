@@ -123,3 +123,23 @@ a {
     margin-left: 64px;
     max-width: 172px;
 }
+
+.third {
+    background-color: #E5E7EB;
+    padding: 200px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.quote-owner {
+    padding-left: 700px;
+    font-size: 24px;
+    font-weight: bold;
+}
